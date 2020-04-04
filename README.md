@@ -1,5 +1,5 @@
 # Pong
-Clasic pong.
+Classic pong.
 
 ## Features
 - Type: 2D
